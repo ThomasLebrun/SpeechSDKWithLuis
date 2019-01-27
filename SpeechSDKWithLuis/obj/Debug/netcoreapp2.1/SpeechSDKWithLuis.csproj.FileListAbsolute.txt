@@ -1,0 +1,8 @@
+c:\trash\SpeechSDKWithLuis\SpeechSDKWithLuis\bin\Debug\netcoreapp2.1\SpeechSDKWithLuis.deps.json
+c:\trash\SpeechSDKWithLuis\SpeechSDKWithLuis\bin\Debug\netcoreapp2.1\SpeechSDKWithLuis.runtimeconfig.json
+c:\trash\SpeechSDKWithLuis\SpeechSDKWithLuis\bin\Debug\netcoreapp2.1\SpeechSDKWithLuis.runtimeconfig.dev.json
+c:\trash\SpeechSDKWithLuis\SpeechSDKWithLuis\bin\Debug\netcoreapp2.1\SpeechSDKWithLuis.dll
+c:\trash\SpeechSDKWithLuis\SpeechSDKWithLuis\obj\Debug\netcoreapp2.1\SpeechSDKWithLuis.csprojAssemblyReference.cache
+c:\trash\SpeechSDKWithLuis\SpeechSDKWithLuis\obj\Debug\netcoreapp2.1\SpeechSDKWithLuis.csproj.CoreCompileInputs.cache
+c:\trash\SpeechSDKWithLuis\SpeechSDKWithLuis\obj\Debug\netcoreapp2.1\SpeechSDKWithLuis.AssemblyInfoInputs.cache
+c:\trash\SpeechSDKWithLuis\SpeechSDKWithLuis\obj\Debug\netcoreapp2.1\SpeechSDKWithLuis.AssemblyInfo.cs
